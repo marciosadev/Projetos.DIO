@@ -1,2 +1,3 @@
-# Projeto1.DIO
-## Repositório do desafio de projeto da DIO
+# Projetos DIO
+## Repositório do curso DIO
+Projetos evolução do curso
